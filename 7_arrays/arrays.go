@@ -16,4 +16,12 @@ func main() {
 
 	//printing the entire array
 	fmt.Println("Array nums:", nums)
+
+	//declaring and initializing an array
+	nums2 := [4]int{1, 2, 3, 4}
+	fmt.Println("Array nums2:", nums2)
+
+	//2D array
+	nums3 := [2][2]int{{1, 2}, {3, 4}}
+	fmt.Println("2D Array nums3:", nums3)
 }
