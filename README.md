@@ -22,15 +22,3 @@ Replace `<folder_name>` with the specific directory you want to explore.
 The main goal of this repository is to provide clear and minimal examples for learning and revising basic Go concepts. It is suitable for:
 - Beginners starting with Go
 - Anyone looking for quick reference Go code snippets
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-Feel free to contribute or suggest improvements!
-
-
-##### testing
-
-
